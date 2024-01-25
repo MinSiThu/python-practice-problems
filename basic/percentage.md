@@ -9,6 +9,7 @@ You are creating a program to determine the discount percentage a customer is el
 - If the purchase amount is greater than or equal to $50 but less than $100, apply a 5% discount.
 
 - If the purchase amount is less than $50, there is no discount.
+
 Write a Python program that takes the total purchase amount as input and calculates the applicable discount. Display the original amount, the discount amount, and the final amount after applying the discount.
 
 Example:

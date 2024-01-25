@@ -1,7 +1,7 @@
 # python-practice-problems
  Problems to practise python skills
 
-# Basic Python Problems
+## Basic Python Problems
 
 - [Calculate Discount Percentage for a customer Problem](./basic/percentage.md)
 
