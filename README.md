@@ -6,6 +6,7 @@
 - [Calculate Discount Percentage for a customer Problem](./basic/percentage.md)
 - [Operations on Grade List](./basic/grade_list.md)
 - [Calculate Area](./basic/calcualate_area.md)
+- [Calculate Factorial](./basic/calculate_factorial.md)
 
 #### Notes
 
